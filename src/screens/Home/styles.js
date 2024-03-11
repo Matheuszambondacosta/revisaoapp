@@ -6,7 +6,8 @@ const styles = StyleSheet.create({
     backgroundColor: "#fff",
     alignItems: "center",
     justifyContent: "center",
-    backgroundColor: "fc6998",
+    backgroundColor: "#fc6998",
+    fontWeight: "bold",
 
 
   },
